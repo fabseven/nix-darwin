@@ -131,7 +131,7 @@
 						"steam"
 						"httpie"
 						"zed"
-						#"nikitabobko/tap/aerospace"
+						"nikitabobko/tap/aerospace"
 						"discord"
 						"hiddenbar"
 						"iina"
@@ -151,8 +151,8 @@
 						"whisky"
 						"mullvad-browser"
 						"telegram"
-						#"steam"
-						#"1password@nightly"
+						"steam"
+						"1password@nightly"
 					];
 					brews = [
 						"imagemagick"
