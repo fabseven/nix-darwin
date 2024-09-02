@@ -23,6 +23,7 @@
 						starship
 						eza
 						git
+						go
 						mas
 						ranger
 						tldr
@@ -80,7 +81,7 @@
 						showhidden = false;
 						show-recents = false;
 						tilesize = 31;
-						wvous-br-corner = 1;
+						wvous-br-corner = 1; #Disable default corner
 					};
 					finder = {
 						ShowPathbar = true;
