@@ -101,8 +101,8 @@
 						ApplePressAndHoldEnabled = false;
 						"com.apple.mouse.tapBehavior" = 1;
 						"com.apple.trackpad.enableSecondaryClick" = true;
-						KeyRepeat = 0;
-						InitialKeyRepeat = 0;
+						KeyRepeat = 2;
+						InitialKeyRepeat = 15;
 					};
 
 					CustomUserPreferences = {
