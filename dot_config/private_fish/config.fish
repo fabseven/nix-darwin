@@ -6,5 +6,6 @@ if status is-interactive
 	  alias mkdir="mkdir -p"
 	  alias vim="nvim"
 	  set -x NIX_CONF_DIR $HOME/.config/nix
+	  set -Ua fish_user_paths $HOME/.local/bin
 end
 starship init fish | source
