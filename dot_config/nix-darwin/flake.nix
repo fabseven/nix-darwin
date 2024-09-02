@@ -149,6 +149,7 @@
 						"wezterm"
 						"whisky"
 						"mullvad-browser"
+						"telegram"
 						#"steam"
 						#"1password@nightly"
 					];
