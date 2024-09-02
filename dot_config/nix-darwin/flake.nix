@@ -79,6 +79,7 @@
 						orientation = "left";
 						showhidden = false;
 						show-recents = false;
+						tilesize = 31;
 					};
 					finder = {
 						ShowPathbar = true;
