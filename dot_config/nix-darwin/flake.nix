@@ -64,6 +64,16 @@
 
 				nixpkgs.config.allowUnfree = true;
 
+				programs.git = {
+					enable = true;
+					userEmail = "fabbycrafted@gmail.com";
+					userName = "fabi";
+					signing = {
+						signByDefault = true;
+						key = "~/.ssh/ie_ed25519.pub"
+					}
+				};
+
 				security.pam.enableSudoTouchIdAuth = true;
 
 				system.keyboard = {
