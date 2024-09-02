@@ -98,7 +98,7 @@
 						AppleShowAllExtensions = true;
 						NSAutomaticCapitalizationEnabled = false;
 						NSAutomaticSpellingCorrectionEnabled = false;
-						
+						ApplePressAndHoldEnabled = false;
 						"com.apple.mouse.tapBehavior" = 1;
 						"com.apple.trackpad.enableSecondaryClick" = true;
 						KeyRepeat = 0;
