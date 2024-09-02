@@ -80,6 +80,7 @@
 						showhidden = false;
 						show-recents = false;
 						tilesize = 31;
+						wvous-br-corner = 1;
 					};
 					finder = {
 						ShowPathbar = true;
