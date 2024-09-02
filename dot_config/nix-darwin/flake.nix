@@ -130,6 +130,26 @@
 						"steam"
 						"httpie"
 						"zed"
+						#"nikitabobko/tap/aerospace"
+						"discord"
+						"hiddenbar"
+						"iina"
+						"linearmouse"
+						"notion"
+						#"microsoft-remote-desktop"
+						"obsidian"
+						"parsec"
+						"powershell"
+						"pritunl"
+						"slack"
+						"tailscale"
+						"ticktick"
+						"viscosity"
+						"visual-studio-code"
+						"wezterm"
+						"whisky"
+						"mullvad-browser"
+						#"steam"
 						#"1password@nightly"
 					];
 					brews = [
@@ -140,6 +160,8 @@
 						"awscli"
 						"dnsmasq"
 						"tmux"
+						"docker"
+						"httpie"
 					];
 					masApps = {
 						"Xcode" = 497799835;
