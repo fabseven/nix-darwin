@@ -36,6 +36,7 @@
 						cmake
 						chezmoi
 						vscode
+						gh
 						#zed-editor
 					];
 
