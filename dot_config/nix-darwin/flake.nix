@@ -37,6 +37,7 @@
 						cmake
 						chezmoi
 						vscode
+						emacs
 						gh
 						#zed-editor
 					];
@@ -134,7 +135,7 @@
 						"steam"
 						"httpie"
 						"zed"
-						"nikitabobko/tap/aerospace"
+						#"nikitabobko/tap/aerospace"
 						"discord"
 						"hiddenbar"
 						"iina"
@@ -154,7 +155,7 @@
 						"whisky"
 						"mullvad-browser"
 						"telegram"
-						"1password@nightly"
+						#"1password@nightly"
 					];
 					brews = [
 						"imagemagick"
