@@ -156,6 +156,7 @@
 						"mullvad-browser"
 						"telegram"
 						#"1password@nightly"
+						"karabiner-elements"
 					];
 					brews = [
 						"imagemagick"
