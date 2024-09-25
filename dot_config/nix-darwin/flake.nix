@@ -155,7 +155,7 @@
 						"whisky"
 						"mullvad-browser"
 						"telegram"
-						#"1password@nightly"
+						"1password@nightly"
 						"karabiner-elements"
 					];
 					brews = [
