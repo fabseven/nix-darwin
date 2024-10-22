@@ -93,7 +93,7 @@
 						Clicking = true;
 						TrackpadRightClick = true;
 					};
-					loginwindow.LoginwindowText = "billy";
+					loginwindow.LoginwindowText = "blabber";
 					screencapture.location = "~/Pictures/screenshots";
 					NSGlobalDomain = {
 						AppleShowAllExtensions = true;
@@ -102,6 +102,7 @@
 						ApplePressAndHoldEnabled = false;
 						"com.apple.mouse.tapBehavior" = 1;
 						"com.apple.trackpad.enableSecondaryClick" = true;
+						"com.apple.swipescrolldirection" = false;
 						KeyRepeat = 2;
 						InitialKeyRepeat = 15;
 					};
@@ -135,13 +136,13 @@
 						"steam"
 						"httpie"
 						"zed"
-						#"nikitabobko/tap/aerospace"
+						"nikitabobko/tap/aerospace"
 						"discord"
 						"hiddenbar"
 						"iina"
 						"linearmouse"
 						"notion"
-						#"microsoft-remote-desktop"
+						"microsoft-remote-desktop"
 						"obsidian"
 						"parsec"
 						"powershell"
