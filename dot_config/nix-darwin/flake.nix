@@ -153,6 +153,7 @@
 						"viscosity"
 						"visual-studio-code"
 						"wezterm"
+						"nvidia-geforce-now"
 						"whisky"
 						"mullvad-browser"
 						"telegram"
