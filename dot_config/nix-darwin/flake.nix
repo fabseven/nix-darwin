@@ -134,7 +134,6 @@
 						"blackhole-2ch"
 						"spotify"
 						"steam"
-						"httpie"
 						"zed"
 						"nikitabobko/tap/aerospace"
 						"discord"
@@ -143,7 +142,6 @@
 						"linearmouse"
 						"notion"
 						"microsoft-remote-desktop"
-						"obsidian"
 						"parsec"
 						"powershell"
 						"pritunl"
@@ -159,6 +157,11 @@
 						"telegram"
 						"1password"
 						"karabiner-elements"
+						"vmware-fusion"
+						"aldente"
+						"crossover"
+						"microsoft-edge"
+						"runelite"
 					];
 					brews = [
 						"imagemagick"
