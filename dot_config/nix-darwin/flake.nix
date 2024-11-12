@@ -162,6 +162,7 @@
 						"crossover"
 						"microsoft-edge"
 						"runelite"
+						"spacelauncher"
 					];
 					brews = [
 						"imagemagick"
