@@ -159,10 +159,10 @@
 						"karabiner-elements"
 						"vmware-fusion"
 						"aldente"
-						"crossover"
 						"microsoft-edge"
 						"runelite"
 						"spacelauncher"
+						"brave-browser"
 					];
 					brews = [
 						"imagemagick"
