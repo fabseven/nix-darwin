@@ -49,6 +49,20 @@
 				# Necessary for using flakes on this system.
 				nix.settings.experimental-features = "nix-command flakes";
 
+				# Exporting path
+				environment.extraInit = ''
+					export PATH=$HOME/bin:$PATH
+				'';
+
+				# Hostname stuff
+				networking.hostName = "bibimbap";
+				networking.computerName = "bibimbap";
+				system.defaults.smb.NetBIOSName = "bibimbap";
+
+				# Cleanup
+				nix.gc.automatic = true;
+				nix.settings.trusted-users = [ "root" "@admin" ];
+
 				# Create /etc/zshrc that loads the nix-darwin environment.
 				programs.zsh.enable = true;  # default shell on catalina
 				programs.fish.enable = true;
@@ -93,7 +107,7 @@
 						Clicking = true;
 						TrackpadRightClick = true;
 					};
-					loginwindow.LoginwindowText = "blabber";
+					loginwindow.LoginwindowText = "kingdom";
 					screencapture.location = "~/Pictures/screenshots";
 					NSGlobalDomain = {
 						AppleShowAllExtensions = true;
@@ -120,6 +134,9 @@
 
 				homebrew = {
 					enable = true;
+					onActivation = {
+						autoUpdate = true;
+					};
 					casks = [
 						"wireshark"
 						"google-chrome"
@@ -146,7 +163,6 @@
 						"powershell"
 						"pritunl"
 						"slack"
-						"tailscale"
 						"ticktick"
 						"viscosity"
 						"visual-studio-code"
@@ -177,6 +193,8 @@
 					];
 					masApps = {
 						"Xcode" = 497799835;
+						"amphetamine" = 937984704;
+						"tailscale" = 1475387142;
 					};
 				};
 				services.redis.enable = true;
