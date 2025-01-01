@@ -147,6 +147,7 @@
 						"visual-studio-code"
 						"font-jetbrains-mono"
 						"font-jetbrains-mono-nerd-font"
+						"font-geist-mono-nerd-font"
 						"font-noto-color-emoji"
 						"blackhole-2ch"
 						"spotify"
