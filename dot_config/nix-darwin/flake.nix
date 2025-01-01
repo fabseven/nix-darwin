@@ -179,6 +179,7 @@
 						"runelite"
 						"spacelauncher"
 						"brave-browser"
+						"ghostty"
 					];
 					brews = [
 						"imagemagick"
