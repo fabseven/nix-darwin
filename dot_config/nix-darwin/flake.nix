@@ -101,7 +101,7 @@
 					finder = {
 						ShowPathbar = true;
 						ShowStatusBar = true;
-
+						QuitMenuItem = true;
 					};
 					trackpad = {
 						Clicking = true;
@@ -168,6 +168,7 @@
 						"visual-studio-code"
 						"wezterm"
 						"obs"
+						"microsoft-remote-desktop"
 						"nvidia-geforce-now"
 						"whisky"
 						"telegram"
