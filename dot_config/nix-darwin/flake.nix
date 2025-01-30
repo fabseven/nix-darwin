@@ -168,6 +168,7 @@
 						"viscosity"
 						"visual-studio-code"
 						"wezterm"
+						"obs"
 						"nvidia-geforce-now"
 						"whisky"
 						"mullvad-browser"
